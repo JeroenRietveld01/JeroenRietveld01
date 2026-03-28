@@ -64,16 +64,6 @@ jeroen = {
 
 ---
 
-### 📊 github stats
-
-<div align="center">
-
-![Jeroen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeroenRietveld01&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
-
-</div>
-
----
-
 ### 📬 find me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeroen-rietveld-348ab0263/)
